@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "servor --reload",
+    "build": "echo 'No specific build step required for this static site. Files are ready for deployment.'"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
